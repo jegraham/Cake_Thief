@@ -59,6 +59,7 @@ Assumptions
 ---------------------
 - maxDuffelBagValue(cakeTypes, capacity);
 - positive numbers only
+- Sorted high to low
 
 
 Solutions 
